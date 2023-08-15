@@ -1,0 +1,11 @@
+{
+	"name": "akv_LS",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://oneitakv1.vault.azure.net/"
+		}
+	}
+}

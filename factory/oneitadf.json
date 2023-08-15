@@ -1,0 +1,9 @@
+{
+	"name": "oneitadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e06efbaa-09a9-4021-853c-cb1e4955c1ec",
+		"tenantId": "c0498c27-0344-46fd-bea4-3c57bad10c31"
+	}
+}
